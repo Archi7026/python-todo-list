@@ -11,6 +11,7 @@ A console-based To-Do List application built using Python. This project allows u
 6.Add due dates to tasks
 7.Save tasks using JSON file storage
 8.Automatically load saved tasks when the application starts
+```
 
 ### Technologies Used:-
 ```text
@@ -19,6 +20,7 @@ A console-based To-Do List application built using Python. This project allows u
 3.Functions
 4.Lists and Dictionaries
 5.Exception Handling
+````
 
 ### Project Structure:-
 ```text
@@ -31,25 +33,32 @@ A console-based To-Do List application built using Python. This project allows u
     |__delete_Task.png
     |__mark_Task.png
     |__exit.png
+```
 
 
 ### How to Run:-
+```text
 1.Install Python
 2.Clone the repository
 3.Run:
 python To_Do_list.py
+```
 
 ### Skills Demonstrated:-
+```text
 1.Python programming fundamentals
 2.Data structures (lists and dictionaries)
 3.File handling
 4.JSON serialization and deserialization
 5.Input validation
 6.Error handling
+```
 
 ### Future Improvements:-
+``` text
 1.Due date validation
 2.Task sorting by priority
 3.Search tasks
 4.GUI version using Tkinter
 5.Database integration using SQLite
+```
