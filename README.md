@@ -1,7 +1,7 @@
 ### To-Do List Application:-
 A console-based To-Do List application built using Python. This project allows users to manage tasks efficiently by adding, viewing, deleting, and marking tasks as completed.
 
-### Features:-
+###Features:-
 1.Add new tasks
 2.View all tasks
 3.Delete tasks
@@ -11,7 +11,7 @@ A console-based To-Do List application built using Python. This project allows u
 7.Save tasks using JSON file storage
 8.Automatically load saved tasks when the application starts
 
-### Technologies Used:-
+###Technologies Used:-
 1.Python
 2.JSON File Handling
 3.Functions
