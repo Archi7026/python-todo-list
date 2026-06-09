@@ -22,6 +22,13 @@ Project Structure:-
 ├── To_Do_list.py
 ├── task.json
 └── README.md
+├── screenshots
+    |__add_Task.png
+    |__view_Task.png
+    |__delete_Task.png
+    |__mark_Task.png
+    |__exit.png
+
 
 How to Run:-
 Install Python
